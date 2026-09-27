@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="The-Enchiridion-for-Tree-Based-Algorithms-Theory.pdf"><b>📖 Download the book (PDF, free)</b></a>
+  <a href="The Enchiridion for Tree Based Algorithms Theory.pdf"><b>📖 Download the book (PDF, free)</b></a>
 </p>
 
 ---
